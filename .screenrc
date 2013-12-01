@@ -5,7 +5,7 @@ vbell off
 
 bindkey \033[D prev # ctrl+left
 bindkey \033[C next
-bindkey [1;5D prev # ctrl+left, genome terminal
+bindkey [1;5D prev # ctrl+left, gnome terminal
 bindkey [1;5C next
 
 #bindkey  kill
