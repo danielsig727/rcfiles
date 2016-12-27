@@ -7,6 +7,9 @@ bindkey \033[D prev # ctrl+left
 bindkey \033[C next
 bindkey [1;5D prev # ctrl+left, gnome terminal
 bindkey [1;5C next
+bindkey b prev # alt+left, mac terminal
+bindkey f next
+
 
 #bindkey  kill
 #bindkey -k k1  select 1
